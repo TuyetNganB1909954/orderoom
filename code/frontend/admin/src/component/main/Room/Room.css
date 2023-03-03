@@ -1,0 +1,14 @@
+.frame{
+     margin: 20px;
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+     padding: 20px;
+}
+.room_item{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+    min-height: 120px;
+    background-color: #ffffff;
+}

@@ -1,0 +1,48 @@
+.about-us{
+    margin: 90px 0;
+    padding: 60px;
+}
+ h1{
+    color: rgb(223,169,116);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.about-us a{
+ color: #1a1a1a;
+ font-weight: 500;
+ text-decoration: none;
+ border-bottom: 3px solid  rgb(223,169,116);
+ text-transform: uppercase;
+}
+.about-us a:hover{
+    color: rgb(223,169,116);
+}
+.service{
+    padding-top: 30px ;
+}
+.service h1{
+    padding: 20px 0 10px 0 ;
+}
+.service-item{
+    text-align: center;
+    font-size: 25px;
+    padding:0 30px 30px 30px;
+}
+.service-item-content{
+    padding: 30px 0;
+}
+.service-item-content i {
+    color: rgb(231, 188, 145);
+}
+.service-item :hover{
+    background-color :rgb(223,169,116);
+    color: white !important;
+}
+.service-item span{
+    color:#1a1a1a;
+    font-weight: 500;
+    font-size: 20px;
+}
+.menuroom{
+    padding: 30px 0 ;
+}

@@ -1,0 +1,9 @@
+.room_order{
+    margin: 20px 40px 20px 0;
+}
+.room_order_item{
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    text-align: center;
+    min-height: 100px;
+    background-color: #ffffff;
+}

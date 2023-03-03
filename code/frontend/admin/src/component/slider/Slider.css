@@ -1,0 +1,25 @@
+.navbar{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+#menu ul {
+    /* width: 100%; */
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+  }
+  #menu li {
+    width: auto;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 1em;
+  }
+  #menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    display: block;
+  }
+  #menu li:hover {
+    background: #CDE2CD;
+  }
